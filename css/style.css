@@ -2093,7 +2093,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
 .footer_area .footer_row .footer_about .socail_icon li:first-child {
   padding: 0;
 }
-.footer_area .footer_row .footer_about .socail_icon li a {
+.footer_area .footer_row .footer_about .socail_icon li a{
   border: 2px solid #f6b60b;
   display: block;
   line-height: 26px;
