@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "scss/_header.css",
+    "inputFile": "scss/_header.scss"
+  },
+  {
+    "outputFile": "scss/_variables.css",
+    "inputFile": "scss/_variables.scss"
+  },
+  {
+    "outputFile": "scss/style.css",
+    "inputFile": "scss/style.scss"
+  }
+]
